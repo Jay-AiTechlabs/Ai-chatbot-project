@@ -9,6 +9,7 @@ The system leverages Natural Language Processing (NLP) and Machine Learning tech
 Key Features:
 
 • NLP-based query processing and intent recognition.
+
 • Machine Learning-driven response prediction.
 • Interactive conversational interface
 Academic information support system.
