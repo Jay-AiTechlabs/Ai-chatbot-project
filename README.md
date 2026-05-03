@@ -1,6 +1,4 @@
 # Ai-chatbot-project
-AI-powered chatbot system for academic support using basic NLP techniques
-
 AI Chatbot for Academic Support
 This project is based on my undergraduate research work, which focused on developing a conversational system to assist students with academic inquiries.
 Features:
