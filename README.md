@@ -1,14 +1,6 @@
 # Ai-chatbot-project
 AI Chatbot for Academic Support
-This project is based on my undergraduate research work, which focused on developing a conversational system to assist students with academic inquiries.
+This project was developed as part of my undergraduate research at Bingham University. It focuses on building an intelligent conversational Ai-powered system to assist students and the public with academic-related inquiries and the school iquiries concenrning the school im general.
 
-Features:
-
-1) Simulated chatbot responses
-2) Academic query handling
-3) Basic conversational flow
-
-Future Improvements:
-
-1) Integration with Python NLP libraries
-2) Machine learning-based intent recognition.
+Overview
+The system leverages Natural Language Processing (NLP) and Machine Learning techniques to understand user queries and generate relevant responses in real time.
