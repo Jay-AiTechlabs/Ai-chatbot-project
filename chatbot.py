@@ -16,7 +16,7 @@ nltk.download('punkt')
 nltk.download('wordnet')
 
 
-intents = json.loads(open('model/intents.json').read())
+intents = json.loads(open('data/intents.json').read())
 words = pickle.load(open('model/words.pkl', 'rb'))
 classes = pickle.load(open('model/classes.pkl', 'rb'))
 
