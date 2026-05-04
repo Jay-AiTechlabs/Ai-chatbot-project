@@ -10,7 +10,8 @@ The system leverages Natural Language Processing (NLP) techniques using the NLTK
 - Machine learning-driven response handling  
 - Web-based interface built with Flask  
 - Interactive user interface using HTML, CSS, and JavaScript  
-- Real-time academic query support  
+- Real-time academic query support
+- The system trains a machine learning model on intent data using an inten.json file to understand user inputs and optimize response accuracy and efficiency.
 
 ## Technologies Used
 - Python  
